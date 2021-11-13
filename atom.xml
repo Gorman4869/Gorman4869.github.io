@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>李国明的Blog</title>
+  
+  <subtitle>学习&amp;减脂</subtitle>
+  <link href="https://gorman4869.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://gorman4869.github.io/"/>
+  <updated>2021-08-04T13:08:28.097Z</updated>
+  <id>https://gorman4869.github.io/</id>
+  
+  <author>
+    <name>Gorman4869</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>DRF-视图组件</title>
+    <link href="https://gorman4869.github.io/2021/08/04/drf-shi-tu-zu-jian/drf-shi-tu-zu-jian/"/>
+    <id>https://gorman4869.github.io/2021/08/04/drf-shi-tu-zu-jian/drf-shi-tu-zu-jian/</id>
+    <published>2021-08-04T13:07:27.000Z</published>
+    <updated>2021-08-04T13:08:28.097Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;视图组件&quot;&gt;&lt;a href=&quot;#视图组件&quot; class=&quot;headerlink&quot; title=&quot;视图组件&quot;&gt;&lt;/a&gt;视图组件&lt;/h1&gt;&lt;h2 id=&quot;视图基类&quot;&gt;&lt;a href=&quot;#视图基类&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="DRF" scheme="https://gorman4869.github.io/categories/DRF/"/>
+    
+    
+    <category term="python" scheme="https://gorman4869.github.io/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DRF-请求与响应</title>
+    <link href="https://gorman4869.github.io/2021/08/04/drf-qing-qiu-yu-xiang-ying/drf-qing-qiu-yu-xiang-ying/"/>
+    <id>https://gorman4869.github.io/2021/08/04/drf-qing-qiu-yu-xiang-ying/drf-qing-qiu-yu-xiang-ying/</id>
+    <published>2021-08-04T13:04:31.000Z</published>
+    <updated>2021-08-04T13:06:39.699Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;请求与响应&quot;&gt;&lt;a href=&quot;#请求与响应&quot; class=&quot;headerlink&quot; title=&quot;请求与响应&quot;&gt;&lt;/a&gt;请求与响应&lt;/h1&gt;&lt;h2 id=&quot;request&quot;&gt;&lt;a href=&quot;#request&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="DRF" scheme="https://gorman4869.github.io/categories/DRF/"/>
+    
+    
+    <category term="python" scheme="https://gorman4869.github.io/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据库之存储引擎</title>
+    <link href="https://gorman4869.github.io/2021/08/04/shu-ju-ku-zhi-cun-chu-yin-qing/shu-ju-ku-zhi-cun-chu-yin-qing/"/>
+    <id>https://gorman4869.github.io/2021/08/04/shu-ju-ku-zhi-cun-chu-yin-qing/shu-ju-ku-zhi-cun-chu-yin-qing/</id>
+    <published>2021-08-03T19:01:06.000Z</published>
+    <updated>2021-08-03T19:03:21.543Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;存储引擎（Storage-engine）&quot;&gt;&lt;a href=&quot;#存储引擎（Storage-engine）&quot; class=&quot;headerlink&quot; title=&quot;存储引擎（Storage engine）&quot;&gt;&lt;/a&gt;存储引擎（Storage</summary>
+        
+      
+    
+    
+    
+    <category term="MySQL" scheme="https://gorman4869.github.io/categories/MySQL/"/>
+    
+    
+    <category term="数据库" scheme="https://gorman4869.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据库前戏</title>
+    <link href="https://gorman4869.github.io/2021/08/04/shu-ju-ku-qian-xi/shu-ju-ku-qian-xi/"/>
+    <id>https://gorman4869.github.io/2021/08/04/shu-ju-ku-qian-xi/shu-ju-ku-qian-xi/</id>
+    <published>2021-08-03T18:23:44.000Z</published>
+    <updated>2021-08-03T18:32:35.638Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;数据库前戏&quot;&gt;&lt;a href=&quot;#数据库前戏&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="MySQL" scheme="https://gorman4869.github.io/categories/MySQL/"/>
+    
+    
+    <category term="数据库" scheme="https://gorman4869.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DRF-序列化</title>
+    <link href="https://gorman4869.github.io/2021/07/31/xu-lie-hua-zu-jian/"/>
+    <id>https://gorman4869.github.io/2021/07/31/xu-lie-hua-zu-jian/</id>
+    <published>2021-07-30T18:02:32.000Z</published>
+    <updated>2021-08-03T18:33:21.051Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;8.3  学习内容—序列化组件&lt;/p&gt;
+&lt;h4 id=&quot;序列化器Serializer介绍&quot;&gt;&lt;a href=&quot;#序列化器Serializer介绍&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="DRF" scheme="https://gorman4869.github.io/categories/DRF/"/>
+    
+    
+    <category term="Python" scheme="https://gorman4869.github.io/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://gorman4869.github.io/2021/07/30/hello-world/"/>
+    <id>https://gorman4869.github.io/2021/07/30/hello-world/</id>
+    <published>2021-07-29T17:22:26.662Z</published>
+    <updated>1985-10-26T08:15:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
