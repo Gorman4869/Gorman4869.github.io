@@ -6,7 +6,7 @@
   <link href="https://gorman4869.github.io/atom.xml" rel="self"/>
   
   <link href="https://gorman4869.github.io/"/>
-  <updated>2021-11-15T10:09:43.491Z</updated>
+  <updated>2021-11-16T16:58:57.300Z</updated>
   <id>https://gorman4869.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>axios</title>
+    <link href="https://gorman4869.github.io/2021/11/17/axios/"/>
+    <id>https://gorman4869.github.io/2021/11/17/axios/</id>
+    <published>2021-11-16T16:56:49.000Z</published>
+    <updated>2021-11-16T16:58:57.300Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;axios&quot;&gt;&lt;a href=&quot;#axios&quot; class=&quot;headerlink&quot; title=&quot;axios&quot;&gt;&lt;/a&gt;axios&lt;/h2&gt;&lt;h3 id=&quot;axios是什么？&quot;&gt;&lt;a href=&quot;#axios是什么？&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://gorman4869.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="axios" scheme="https://gorman4869.github.io/tags/axios/"/>
+    
+    <category term="vue" scheme="https://gorman4869.github.io/tags/vue/"/>
+    
+  </entry>
   
   <entry>
     <title>CSS</title>
