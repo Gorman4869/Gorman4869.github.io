@@ -770,7 +770,9 @@ btns<span class="token punctuation">[</span><span class="token number">0</span><
             <span class="token keyword">function</span> <span class="token function">executor</span><span class="token punctuation">(</span><span class="token parameter">c</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
               <span class="token comment">// executor 函数接收一个 cancel 函数作为参数</span>
             <span class="token comment">//3. 将 c 的值赋值给 cancel</span>
-<span class="token comment">//如果调用了cancel，c就调用，就相当于内部一个resolvePromise函数运行了，从而就导致new axios.CancelToken 实例出来的对象的promise属性发生了改变，进而影响到了xhr.js(发送ajax请求的根源)里面，调用request.abort()，如果请求时配置cancelToken,并且调用了cancel，就会一步一步最终调用request.abort().</span>
+<span class="token comment">//如果调用了cancel，c就调用，就相当于内部一个resolvePromise函数运行了，从而就导致new axios.CancelToken </span>
+<span class="token comment">//实例出来的对象的promise属性发生了改变，进而影响到了xhr.js(发送ajax请求的根源)里面，调用request.abort()，</span>
+<span class="token comment">//如果请求时配置cancelToken,并且调用了cancel，就会一步一步最终调用request.abort().</span>
                 
             cancel <span class="token operator">=</span> c<span class="token punctuation">;</span>
         <span class="token punctuation">}</span><span class="token punctuation">)</span>
@@ -783,7 +785,7 @@ btns<span class="token punctuation">[</span><span class="token number">0</span><
 <span class="token comment">//绑定第二个事件取消请求</span>
 btns<span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">]</span><span class="token punctuation">.</span><span class="token function-variable function">onclick</span> <span class="token operator">=</span> <span class="token keyword">function</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
     <span class="token function">cancel</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-<span class="token punctuation">}</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+<span class="token punctuation">}</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
 
 <h4 id="模拟请求取消"><a href="#模拟请求取消" class="headerlink" title="模拟请求取消"></a>模拟请求取消</h4><pre class="line-numbers language-js" data-language="js"><code class="language-js"><span class="token comment">//构造函数</span>
 <span class="token keyword">function</span> <span class="token function">Axios</span><span class="token punctuation">(</span><span class="token parameter">config</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
