@@ -6,7 +6,7 @@
   <link href="https://gorman4869.github.io/atom.xml" rel="self"/>
   
   <link href="https://gorman4869.github.io/"/>
-  <updated>2021-11-20T16:00:11.721Z</updated>
+  <updated>2021-12-01T13:52:01.618Z</updated>
   <id>https://gorman4869.github.io/</id>
   
   <author>
@@ -15,6 +15,58 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>面试题</title>
+    <link href="https://gorman4869.github.io/2021/12/01/mian-shi-ti/"/>
+    <id>https://gorman4869.github.io/2021/12/01/mian-shi-ti/</id>
+    <published>2021-12-01T13:51:08.506Z</published>
+    <updated>2021-12-01T13:52:01.618Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;面试题&quot;&gt;&lt;a href=&quot;#面试题&quot; class=&quot;headerlink&quot; title=&quot;面试题&quot;&gt;&lt;/a&gt;面试题&lt;/h2&gt;&lt;h3 id=&quot;类型转换&quot;&gt;&lt;a href=&quot;#类型转换&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://gorman4869.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="面试题" scheme="https://gorman4869.github.io/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>js运算符</title>
+    <link href="https://gorman4869.github.io/2021/12/01/js-yun-suan-fu/"/>
+    <id>https://gorman4869.github.io/2021/12/01/js-yun-suan-fu/</id>
+    <published>2021-12-01T13:49:26.342Z</published>
+    <updated>2021-12-01T13:52:25.865Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;js运算符&quot;&gt;&lt;a href=&quot;#js运算符&quot; class=&quot;headerlink&quot; title=&quot;js运算符&quot;&gt;&lt;/a&gt;js运算符&lt;/h2&gt;&lt;h3 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://gorman4869.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="js" scheme="https://gorman4869.github.io/tags/js/"/>
+    
+    <category term="运算符" scheme="https://gorman4869.github.io/tags/%E8%BF%90%E7%AE%97%E7%AC%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>axios</title>
@@ -94,6 +146,60 @@
   </entry>
   
   <entry>
+    <title>promise</title>
+    <link href="https://gorman4869.github.io/2021/11/13/promise/"/>
+    <id>https://gorman4869.github.io/2021/11/13/promise/</id>
+    <published>2021-11-13T14:10:10.000Z</published>
+    <updated>2021-12-01T13:58:47.100Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Promise&quot;&gt;&lt;a href=&quot;#Promise&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://gorman4869.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="js" scheme="https://gorman4869.github.io/tags/js/"/>
+    
+    <category term="promise" scheme="https://gorman4869.github.io/tags/promise/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>js基础知识</title>
+    <link href="https://gorman4869.github.io/2021/11/13/js-ji-chu-zhi-shi/"/>
+    <id>https://gorman4869.github.io/2021/11/13/js-ji-chu-zhi-shi/</id>
+    <published>2021-11-13T12:59:11.000Z</published>
+    <updated>2021-12-01T13:55:13.275Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;js基础知识&quot;&gt;&lt;a href=&quot;#js基础知识&quot; class=&quot;headerlink&quot; title=&quot;js基础知识&quot;&gt;&lt;/a&gt;js基础知识&lt;/h2&gt;&lt;h3 id=&quot;数据类型&quot;&gt;&lt;a href=&quot;#数据类型&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://gorman4869.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="js" scheme="https://gorman4869.github.io/tags/js/"/>
+    
+    <category term="数据类型" scheme="https://gorman4869.github.io/tags/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>js闭包</title>
     <link href="https://gorman4869.github.io/2021/11/13/js-bi-bao/"/>
     <id>https://gorman4869.github.io/2021/11/13/js-bi-bao/</id>
@@ -117,6 +223,33 @@
     <category term="js" scheme="https://gorman4869.github.io/tags/js/"/>
     
     <category term="闭包" scheme="https://gorman4869.github.io/tags/%E9%97%AD%E5%8C%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>防抖与节流</title>
+    <link href="https://gorman4869.github.io/2021/11/13/fang-dou-yu-jie-liu/"/>
+    <id>https://gorman4869.github.io/2021/11/13/fang-dou-yu-jie-liu/</id>
+    <published>2021-11-13T12:59:11.000Z</published>
+    <updated>2021-12-01T13:56:35.228Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;防抖与节流&quot;&gt;&lt;a href=&quot;#防抖与节流&quot; class=&quot;headerlink&quot; title=&quot;防抖与节流&quot;&gt;&lt;/a&gt;防抖与节流&lt;/h2&gt;&lt;h3 id=&quot;函数防抖与函数节流的意义&quot;&gt;&lt;a href=&quot;#函数防抖与函数节流的意义&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://gorman4869.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="js" scheme="https://gorman4869.github.io/tags/js/"/>
+    
+    <category term="防抖与节流" scheme="https://gorman4869.github.io/tags/%E9%98%B2%E6%8A%96%E4%B8%8E%E8%8A%82%E6%B5%81/"/>
     
   </entry>
   
