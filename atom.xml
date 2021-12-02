@@ -6,7 +6,7 @@
   <link href="https://gorman4869.github.io/atom.xml" rel="self"/>
   
   <link href="https://gorman4869.github.io/"/>
-  <updated>2021-12-02T08:30:14.398Z</updated>
+  <updated>2021-12-02T10:44:25.497Z</updated>
   <id>https://gorman4869.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://gorman4869.github.io/2021/12/02/test/"/>
+    <id>https://gorman4869.github.io/2021/12/02/test/</id>
+    <published>2021-12-02T10:42:48.000Z</published>
+    <updated>2021-12-02T10:44:25.497Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2021/12/02/EHtlVsL2K1ojUWg.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>面试题</title>
@@ -516,31 +538,6 @@
     
     
     <category term="html" scheme="https://gorman4869.github.io/tags/html/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>DRF-视图组件</title>
-    <link href="https://gorman4869.github.io/2021/08/04/drf-shi-tu-zu-jian/drf-shi-tu-zu-jian/"/>
-    <id>https://gorman4869.github.io/2021/08/04/drf-shi-tu-zu-jian/drf-shi-tu-zu-jian/</id>
-    <published>2021-08-04T13:07:27.000Z</published>
-    <updated>2021-08-04T13:08:28.097Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;视图组件&quot;&gt;&lt;a href=&quot;#视图组件&quot; class=&quot;headerlink&quot; title=&quot;视图组件&quot;&gt;&lt;/a&gt;视图组件&lt;/h1&gt;&lt;h2 id=&quot;视图基类&quot;&gt;&lt;a href=&quot;#视图基类&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="DRF" scheme="https://gorman4869.github.io/categories/DRF/"/>
-    
-    
-    <category term="python" scheme="https://gorman4869.github.io/tags/python/"/>
     
   </entry>
   
